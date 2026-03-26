@@ -52,6 +52,7 @@ This is a living system. It gets better the more you use it.
 - [Ruben Hassid](https://www.linkedin.com/posts/ruben-hassid_how-to-make-ai-sound-exactly-like-you-forever-share-7434595498042429440-oAVI) — his "Taste Interviewer" method for extracting your writing DNA through a structured 100-question self-interview directly inspired the Voice Training module in this repo.
 - The Taste Interview question bank used here builds on Hassid's original prompt. The full 100-question set is linked in [01-voice-training.md](01-voice-training.md).
 - [Voice Secretary](https://github.com/SkyYogi-VSB/voice-secretary-template) — an open-source Android PWA built by the author for voice-to-text capture that ships daily notes to your CoS. Used as the intake layer in this system.
+- [Claude Code](https://claude.ai/claude-code) — the entire CoS system and this repo were built iteratively in conversation with Claude Code over several weeks.
 
 ## License
 
